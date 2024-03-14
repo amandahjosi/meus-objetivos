@@ -1,0 +1,2 @@
+const botao = document.querSelectorAll("botao);
+cont botao = document.querySelector("b.aba-conteudo");
